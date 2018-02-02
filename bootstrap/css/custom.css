@@ -1,0 +1,72 @@
+footer
+{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding:10px;
+	border-radius: 5px;
+	height: 50px;
+	width: 100%;
+}
+
+#contact
+{
+	text-align: center;
+	background-color: orange;
+	padding: 15px;
+	border-radius: 5px;
+}
+
+#portfolio
+{
+	text-align: center;
+	color: white;
+	background-color: #ffaf1a;
+	border-radius: 5px;
+	
+}
+
+#archievements
+{
+	text-align: center;
+	background-image: url(resources/img3.jpg);
+	border-radius: 5px;
+}
+#Home
+{
+	text-align: center;
+	background-color: #ffc966;
+	padding: 15px;
+	border-radius: 5px;
+}
+header.scrolled
+{
+    background: white;
+    padding: 2px 0;
+    -webkit-transition: all ease 300ms;
+    transition: all ease 300ms;
+}
+header 
+{
+    left: 0;
+    padding: 70px 0;
+    position: fixed;
+    text-align: center;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+    -webkit-transition: all ease 300ms;
+    transition: all ease 300ms;
+    -webkit-animation: fadeIn 700ms 600ms;
+    -webkit-animation-fill-mode: backwards;
+}
+.d1,.d2,.d3
+{
+	float: right;
+	margin-right: 130px;
+}
+.img
+{
+	height: 380px;
+	width: 100%;
+}
